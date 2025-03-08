@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+dist/
+build/
+db.json
+
+# Environment variables
+.env
+
+# Logs & system files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# TypeScript build files
+*.tsbuildinfo
