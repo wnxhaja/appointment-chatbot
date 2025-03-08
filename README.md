@@ -30,8 +30,8 @@ Ensure you have the following installed:
 ### 2️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/whatsapp-booking-bot.git
-cd whatsapp-booking-bot
+git clone https://github.com/wnxhaja/appointment-chatbot.git
+cd appointment-chatbot
 ```
 
 ### 3️⃣ Install Dependencies
